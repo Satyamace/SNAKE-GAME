@@ -18,4 +18,3 @@ A classic Snake Game recreated using **HTML, CSS, and JavaScript**. Control the 
 * CSS3
 * JavaScript
 * Browser Local Storage
-# SNAKE-GAME
